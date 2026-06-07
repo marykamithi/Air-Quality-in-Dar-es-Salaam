@@ -28,8 +28,5 @@ df = pd.read_csv('data/p2_readings.csv', parse_dates=['timestamp']).set_index('t
 
 3. Open the notebook and run the cells in order.
 
-Notes & Next steps
-- This copy intentionally omits proprietary datasets and videos. If you have access to similar sensor data, you can reuse the notebook pipeline.
-- If you'd like, I can: (a) adapt the notebook to load a CSV automatically, (b) add a small example CSV with synthetic data, or (c) create a requirements-locked `requirements.txt` and a minimal GitHub-friendly `LICENSE`.
 
 Enjoy exploring air quality in Dar es Salaam — and let me know how you'd like the notebook tailored to your data.
