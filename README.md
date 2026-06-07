@@ -5,9 +5,7 @@ This repository contains a single Jupyter notebook, `035-assignment.ipynb`, expl
 **Story**
 - Dar es Salaam is a bustling, growing city where air quality directly affects health and daily life. This notebook walks through a pragmatic time-series analysis pipeline: wrangling sensor readings, exploratory plots, baseline modeling, autoregression tuning, and walk-forward validation.
 
-What I changed
-- Removed WorldQuant University copyright and proprietary video references.
-- Added this README with clear instructions and a brief narrative.
+
 
 How to run
 1. Create a Python environment and install dependencies:
