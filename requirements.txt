@@ -1,0 +1,6 @@
+pandas
+pymongo
+matplotlib
+plotly
+statsmodels
+scikit-learn
